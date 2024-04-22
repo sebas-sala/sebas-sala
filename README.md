@@ -81,11 +81,3 @@
 <br clear="both">
 
 <img src="https://github.com/sebas-sala/README/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sebastian-sala/count.svg?"  />
-</div>
-
-###
